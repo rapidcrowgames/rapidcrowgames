@@ -29,7 +29,8 @@ Currently, I'm expanding my skills in Unity and C#, focusing on gameplay systems
 
 A Unity 2D hack-and-slash prototype featuring light and heavy attacks, parrying, counterattacks, dashing, and gamepad support.
 
-![Combat System Gameplay](./ezgif.com-video-to-gif-converter%20%281%29.gif)
+![Combat System Gameplay](./ezgif.com-video-to-gif-converter.gif)
+
 
 [View Source Code](https://github.com/rapidcrowgames/2D-Platformer-Combat-System)
 
@@ -59,7 +60,7 @@ A space shooter project developed in Unity using C#, featuring a boss encounter.
 
 Gameplay preview from Tintaforma.
 
-[▶ Watch Gameplay Preview](./Gif03-ezgif.com-video-to-gif-converter.gif)
+![Tintaforma Gameplay](./Gif03-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
