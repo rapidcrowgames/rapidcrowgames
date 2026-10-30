@@ -59,7 +59,7 @@ A space shooter project developed in Unity using C#, featuring a boss encounter.
 
 Gameplay preview from Tintaforma.
 
-[▶ Watch Gameplay Preview](./Gif03.mp4)
+[▶ Watch Gameplay Preview](./Gif03-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
