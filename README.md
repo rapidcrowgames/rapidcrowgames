@@ -22,21 +22,57 @@ Currently, I'm expanding my skills in Unity and C#, focusing on gameplay systems
 
 ---
 
-### 🚀 Featured Projects
+
+### 🚀 Featured Projects & Gameplay
 
 #### ⚔️ 2D Platformer Combat System
 
-A Unity prototype focused on responsive 2D combat mechanics, featuring light and heavy attacks, parrying, counterattacks, dashing, and gamepad support.
+A Unity 2D hack-and-slash prototype featuring light and heavy attacks, parrying, counterattacks, dashing, and gamepad support.
 
-[View Repository](https://github.com/rapidcrowgames/2D-Platformer-Combat-System)
+![Combat System Gameplay](./ezgif.com-video-to-gif-converter%20%281%29.gif)
+
+[View Source Code](https://github.com/rapidcrowgames/2D-Platformer-Combat-System)
+
+---
+
+#### 👹 Oni's Will Fall
+
+A 2D game project developed using GameMaker and GML.
+
+![Onis Will Fall Gameplay](./OnisWillFall2.gif)
+
+[View Repository](https://github.com/rapidcrowgames/Onis-Will-Fall)
+
+---
+
+#### 🚀 Space Shooter
+
+A space shooter project developed in Unity using C#, featuring a boss encounter.
+
+![Spaceshooter Boss Gameplay](./spaceshooter_boss.gif)
+
+[View Repository](https://github.com/rapidcrowgames/Spaceshooter)
+
+---
+
+#### 🎨 Tintaforma
+
+Gameplay preview from Tintaforma.
+
+[▶ Watch Gameplay Preview](./Gif03.mp4)
+
+---
 
 #### 🌌 Astral Wield
 
 My first commercially released indie game, developed over approximately 3 years and published on Steam in July 2025.
 
+---
+
 #### 👻 Marked for Hell (In Development)
 
 A first-person psychological horror prototype developed in Unity, focusing on atmosphere, exploration, and interactive systems.
+
 
 ---
 
